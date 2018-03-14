@@ -13,8 +13,7 @@
     <version>4.12</version>
     <scope>test</scope>
 </dependency>
-  
-  
+   
   
   </dependencies>
   <build>
@@ -31,4 +30,8 @@
 </plugin>
 </plugins>
 </build>
+<<<<<<< HEAD
 </project>
+=======
+</project>
+>>>>>>> c36a2675406359cdd908941193d767e735888fa1
